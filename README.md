@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohansahu18" alt="mohansahu18" /></a> </p>
 
-- 🔭 I’m currently working on **Airline Booking Backend Project**
+- 🔭 I’m currently working on **3d portfolio website**
 
 - 🌱 I’m currently learning **node js, Express js, Mongo db, Mysql**
 
