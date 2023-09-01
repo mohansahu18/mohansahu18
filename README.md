@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I’m currently working on 3d portfolio website<br>🤝 I’m looking for help with<br>🌱 I’m currently learning three.js<br>💬  Ask me about react js , node js, express js , mongoDB , redux , frontend development , backend Developnment , Fullstack Developnment<br>📫 How to reach me mohansahu18111811@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1PC1Onia7ZaAfj3mIdxfta5Y7HCE1OTQK/view?usp=sharing
+🔭  I’m currently working on 3d portfolio website<br>🌱 I’m currently learning three.js<br>💬  Ask me about react js , node js, express js , mongoDB , redux , frontend development , backend Developnment , Fullstack Developnment<br>📫 How to reach me mohansahu18111811@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1PC1Onia7ZaAfj3mIdxfta5Y7HCE1OTQK/view?usp=sharing
 
 
 ## 🌐 Socials:
